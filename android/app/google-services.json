@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252249481261",
+    "project_id": "pollos-canallas",
+    "storage_bucket": "pollos-canallas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252249481261:android:e60b35091f2ec8cacc98a4",
+        "android_client_info": {
+          "package_name": "com.example.polloscanallas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI-l8TvxkTTXLC5EgmApIhcxQDvwtpNdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
